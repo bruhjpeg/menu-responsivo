@@ -23,6 +23,7 @@ h1 {
   display: block;
   text-align: center;
   padding: 10px;
+  cursor: pointer;
 }
 
 #burguer:hover {
@@ -31,7 +32,7 @@ h1 {
 }
 
 menu {
-  display: block;
+  display: none;
 
 }
 
@@ -59,6 +60,7 @@ main {
   background-color: white;
   margin: auto;
   margin-top: 10px;
+  margin-bottom: 20px;
   padding: 10px;
   border-radius: 10px;
 }
